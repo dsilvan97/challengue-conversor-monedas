@@ -1,0 +1,72 @@
+[
+  {
+    "sesion": 1,
+    "horaCierreSesion": "2024-10-17T12:07:02.443695300",
+    "cantidadConversiones": 1,
+    "conversionesRealizadas": [
+      {
+        "fechaConsulta": "2024-10-17T12:07:01.559736400",
+        "monedaBase": "USD",
+        "cantidad": 1.0,
+        "monedaDestino": "COP",
+        "valorEquivalente": "4280,04"
+      }
+    ]
+  },
+  {
+    "sesion": 2,
+    "horaCierreSesion": "2024-10-17T12:07:13.514430200",
+    "cantidadConversiones": 1,
+    "conversionesRealizadas": [
+      {
+        "fechaConsulta": "2024-10-17T12:07:12.374920600",
+        "monedaBase": "EUR",
+        "cantidad": 50.0,
+        "monedaDestino": "BRL",
+        "valorEquivalente": "307,21"
+      }
+    ]
+  },
+  {
+    "sesion": 3,
+    "horaCierreSesion": "2024-10-17T12:07:29.435569600",
+    "cantidadConversiones": 1,
+    "conversionesRealizadas": [
+      {
+        "fechaConsulta": "2024-10-17T12:07:27.820116900",
+        "monedaBase": "INR",
+        "cantidad": 150500.0,
+        "monedaDestino": "COP",
+        "valorEquivalente": "7661677,51"
+      }
+    ]
+  },
+  {
+    "sesion": 4,
+    "horaCierreSesion": "2024-10-17T12:12:00.145432800",
+    "cantidadConversiones": 1,
+    "conversionesRealizadas": [
+      {
+        "fechaConsulta": "2024-10-17T12:11:56.277011400",
+        "monedaBase": "GBP",
+        "cantidad": 10.0,
+        "monedaDestino": "USD",
+        "valorEquivalente": 13.01
+      }
+    ]
+  },
+  {
+    "sesion": 5,
+    "horaCierreSesion": "2024-10-17T12:44:55.035368200",
+    "cantidadConversiones": 1,
+    "conversionesRealizadas": [
+      {
+        "fechaConsulta": "2024-10-17T12:44:53.825429",
+        "monedaBase": "COP",
+        "cantidad": 50200.0,
+        "monedaDestino": "INR",
+        "valorEquivalente": 986.09
+      }
+    ]
+  }
+]
