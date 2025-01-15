@@ -31,3 +31,5 @@ Este proyecto es un programa para realizar conversiones entre diferentes divisas
 Java (JDK 8 o superior).<br>
 Gson para manejar archivos JSON.<br>
 Una cuenta y acceso a la API de Open Exchange Rates para obtener las tasas de cambio actualizadas.
+
+Mi Linkedin: <a href="https://www.linkedin.com/in/david-silva-nunez/" target="_blank" rel="noopener noreferrer">David Silva</a>
